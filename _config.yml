@@ -16,7 +16,7 @@ lang: en
 prefer_datetime_locale:
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Seoul
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -25,15 +25,17 @@ title: JH's SW Blog                          # the main title
 
 tagline: 꾸준히...   # it will display as the sub-title
 
-description: JH                       # used by seo meta and the atom feed
+description: >-                        # used by seo meta and the atom feed
+  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://JH-TT.github.io'
 
 github:
   username: JH-TT             # change to your github username
 
-twitter:
-  username: 
+# twitter:
+#   username: 
 
 social:
   # Change to your full name.
